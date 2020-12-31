@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "MiniProjet"
+  "defaultProject": "MiniProjet",
+  "cli": {
+    "analytics": false
+  }
 }
